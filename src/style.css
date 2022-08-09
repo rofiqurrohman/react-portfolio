@@ -256,7 +256,7 @@ button:focus {
 
 .home-section {
   position: relative;
-  z-index: -1;
+  /* z-index: -1; */
   background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
@@ -340,6 +340,8 @@ button:focus {
   text-align: center !important;
   padding-top: 25px;
   color: white !important;
+  position: relative;
+  z-index: 1;
 }
 
 .home-about-social-links {
@@ -406,6 +408,8 @@ button:focus {
   bottom: 0 !important;
   padding-top: 10px !important;
   padding-bottom: 8px !important ;
+  position: relative;
+  z-index: 1;
 }
 .footer-copywright {
   text-align: center !important;
@@ -601,6 +605,9 @@ button:focus {
 /* Resume */
 /* --------- */
 
+/* --------- */
+/* Resume */
+/* --------- */
 .resume-section {
   position: relative !important;
   padding-top: 110px !important;
@@ -610,9 +617,9 @@ button:focus {
 }
 
 .resume {
-  padding-top: 50px;
+  padding-top: 10px;
   padding-bottom: 50px;
-  justify-content: center;
+  text-align: left;
 }
 
 .resume-left {
