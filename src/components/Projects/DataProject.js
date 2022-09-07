@@ -4,14 +4,14 @@ export const Data = [
         desc: 'Learning management system ini mempunyai fitur Course online, presensi dan pembayaran otomatis yang terintegrasi dengan duitku.com. Build with Vue.js, Bootstrap, Laravel',
         img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1659948971/project-portfolio/lms_s0qap3.png',
         isProject: false,
-        link: 'https://lms.amikomcenter.com',
+        link: 'https://amikomcenter.com',
     },
     {
         title: 'Sistem Informasi Harga dan Produksi Komoditi',
-        desc: 'Sistem informasi Harga dan Produksi inflasi Jawa Tengah',
+        desc: 'Sistem informasi Harga dan Produksi inflasi Jawa Tengah. build with Vue.js, Tailwind, Rest API',
         img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1659948970/project-portfolio/hargajateng_qu7r3v.png',
         isProject: false,
-        link: 'https://dev.hargajateng.org/',
+        link: 'https://hargajateng.org/',
     },
     {
         title: 'Money Changer',
@@ -22,7 +22,7 @@ export const Data = [
     },
     {
         title: 'Dashboard Admin',
-        desc: 'Dashboard admin untuk management sebuah website. build with React.js, Tailwind, TypeScript',
+        desc: 'Dashboard admin untuk management sebuah website. Build with React.js, Tailwind, TypeScript',
         img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1659948967/project-portfolio/Dashboard_sliidn.png',
         isProject: false,
         link: '#',

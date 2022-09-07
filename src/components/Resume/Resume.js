@@ -34,10 +34,10 @@ function Resume() {
                         <h3 className='resume-title'>Education</h3>
                         <Resumecontent
                             title='UNIVERSITAS AMIKOM YOGYAKARTA'
-                            date='Informatika . 2018 - Present'
+                            date='Informatika . Present'
                             content={[]}
                         />
-                        <Resumecontent title='SMK PGRI 1 NGAWI' date='TKJ . 2015 - 2018' content={[]} />
+                        <Resumecontent title='SMK PGRI 1 NGAWI' date='TKJ' content={[]} />
                     </Col>
                 </Row>
                 {/* <Row style={{ justifyContent: 'center' }}> */}
