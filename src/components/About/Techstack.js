@@ -1,7 +1,8 @@
 import React from 'react';
 import { Col, Row } from 'react-bootstrap';
+import { FaBootstrap } from 'react-icons/fa'
 import { DiJavascript1, DiReact, DiNodejs, DiSass } from 'react-icons/di';
-import { SiFirebase, SiTailwindcss } from 'react-icons/si';
+import { SiFirebase, SiTailwindcss, SiTypescript } from 'react-icons/si';
 import { FaVuejs } from 'react-icons/fa';
 
 function Techstack() {
@@ -27,6 +28,12 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <SiTailwindcss />
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <FaBootstrap />
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <SiTypescript />
       </Col>
     </Row>
   );
