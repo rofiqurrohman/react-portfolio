@@ -22,13 +22,13 @@ function Resume() {
           <Col md={6} className='resume-left'>
             <h3 className='resume-title'>Experience</h3>
             {DataResume.map((item, index) => (
-              <Resumecontent key={index} title={item.title} date={item.date} content={item.content} />
+              <Resumecontent key={index} type={item.type} title={item.title} date={item.date} content={item.content} />
             ))}
           </Col>
           <Col md={6} className='resume-right'>
             <h3 className='resume-title'>Education</h3>
-            <Resumecontent title='UNIVERSITAS AMIKOM YOGYAKARTA' date='Informatika . Now' content={[]} />
-            <Resumecontent title='SMK PGRI 1 NGAWI' date='TKJ' content={[]} />
+            <Resumecontent title='UNIVERSITAS AMIKOM YOGYAKARTA' date='Informatika. 2023' content={[]} />
+            <Resumecontent title='SMK PGRI 1 NGAWI' date='TKJ. 2018' content={[]} />
           </Col>
         </Row>
         {/* <Row style={{ justifyContent: 'center' }}> */}

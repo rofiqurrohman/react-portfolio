@@ -1,5 +1,19 @@
 export const Data = [
   {
+    title: 'Fleet Uzzeet',
+    desc: 'Fleet Uzzeet adalah web app dari perusahaan PT Telto Telematis Indonesia untuk melacak dan memantau kendaraan, saya terlibat dalam pembuatan beberapa fitur, dibuat dengan vue.js sebagai frontend dan terintegrasi Rest API.',
+    img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1700882969/fleet-uzzeet_rn3qwp.png',
+    isProject: false,
+    link: 'https://fleet.uzzeet.id/',
+  },
+  {
+    title: 'Runner',
+    desc: 'Runner adalah sebuah web app yang berbasis GPS Tracking yang di buat oleh perusahaan PT Telto Telematis Indonesia yang dimana saya juga ikut terlibat dalam membuat bebrapa fitur, dibuat dengan vue.js sebagai frontend dan terintegrasi Rest API.',
+    img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1700882990/runner_iusvcc.png',
+    isProject: false,
+    link: 'https://runner.ktbfuso.id/',
+  },
+  {
     title: 'Sistem Informasi Harga dan Produksi Komoditi',
     desc: 'Sistem informasi Harga dan Produksi inflasi Jawa Tengah (Vue.js, Tailwindcss, Rest API).',
     img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1659948970/project-portfolio/hargajateng_qu7r3v.png',
