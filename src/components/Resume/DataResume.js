@@ -2,7 +2,7 @@ export const DataResume = [
   {
     title: 'Frontend Developer - PT Telto Telematis Indonesia',
     type: 'Fulltime',
-    date: 'Jan 2023 - Now',
+    date: 'Des 2022 - Now',
     content: [
       'Developing, collaborating, code reviewing frontend features in different teams.',
       'Developing the GPS Tracking web app feature with other teams. (VueJS, Quasar, Leaflet.js, Socket, Rest Api)',
@@ -12,7 +12,7 @@ export const DataResume = [
   },
   {
     title: 'Frontend Engineer - PT GIT Solution',
-    type: 'Internship',
+    type: 'Internship MBKM',
     date: 'Maret 2022 - Des 2022',
     content: [
       'Collaborated with a Senior and Lead Enginner to build Sistem informasi harga dan produksi komoditi Jawa Tengah. (VueJs, Tailwindcss, Vuex, Rest API)',
@@ -24,7 +24,7 @@ export const DataResume = [
   },
   {
     title: 'Frontend Developer - Freedom FinTech',
-    type: 'Contract',
+    type: 'Freelance',
     date: 'Februari 2022 - April 2022',
     content: [
       'Build web app dashboard admin and collaborate with different teams.(ReactJs, Redux toolkit, TypeScript, Tailwindcss,Github)',

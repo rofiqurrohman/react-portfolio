@@ -7,7 +7,7 @@ function ResumeContent(props) {
 
       <p>
         <em>
-          {props.date}. {props.type}
+          {props.date}. {props.type && `(${props.type})`}
         </em>
       </p>
       <ul>

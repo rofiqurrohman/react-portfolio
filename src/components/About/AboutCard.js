@@ -27,6 +27,9 @@ function AboutCard() {
             <li className='about-activity'>
               <ImPointRight /> Volleyball
             </li>
+            <li className='about-activity'>
+              <ImPointRight /> Badminton
+            </li>
           </ul>
 
           <p style={{ color: 'rgb(155 126 172)' }}>"Risk more than other think is safe!" </p>
