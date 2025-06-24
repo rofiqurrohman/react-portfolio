@@ -1,32 +1,32 @@
-import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import React from 'react';
+import { Container, Row, Col } from 'react-bootstrap';
 import {
   AiFillGithub,
   // AiOutlineTwitter,
   AiFillInstagram,
-} from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+} from 'react-icons/ai';
+import { FaLinkedinIn } from 'react-icons/fa';
 
 function Footer() {
   let date = new Date();
   let year = date.getFullYear();
   return (
-    <Container fluid className="footer">
+    <Container fluid className='footer'>
       <Row>
-        <Col md="4" className="footer-copywright">
-          <h3>Re-Develop by Rofiqur Rohman</h3>
+        <Col md='4' className='footer-copywright'>
+          <h3>By @Rofiqur Rohman</h3>
         </Col>
-        <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year}</h3>
+        <Col md='4' className='footer-copywright'>
+          <h3>Copyright © 2021 - {year}</h3>
         </Col>
-        <Col md="4" className="footer-body">
-          <ul className="footer-icons">
-            <li className="social-icons">
+        <Col md='4' className='footer-body'>
+          <ul className='footer-icons'>
+            <li className='social-icons'>
               <a
-                href="https://github.com/rofiqurrohman"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
+                href='https://github.com/rofiqurrohman'
+                style={{ color: 'white' }}
+                target='_blank'
+                rel='noopener noreferrer'
               >
                 <AiFillGithub />
               </a>
@@ -41,22 +41,22 @@ function Footer() {
                 <AiOutlineTwitter />
               </a>
             </li> */}
-            <li className="social-icons">
+            <li className='social-icons'>
               <a
-                href="https://www.linkedin.com/in/rofiqurrohman/"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
+                href='https://www.linkedin.com/in/rofiqurrohman/'
+                style={{ color: 'white' }}
+                target='_blank'
+                rel='noopener noreferrer'
               >
                 <FaLinkedinIn />
               </a>
             </li>
-            <li className="social-icons">
+            <li className='social-icons'>
               <a
-                href="https://www.instagram.com/rofiqurrohmn/"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
+                href='https://www.instagram.com/rofiqurrohmn/'
+                style={{ color: 'white' }}
+                target='_blank'
+                rel='noopener noreferrer'
               >
                 <AiFillInstagram />
               </a>

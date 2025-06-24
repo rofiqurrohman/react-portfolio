@@ -1,17 +1,24 @@
 export const Data = [
   {
     title: 'Fleet Uzzeet',
-    desc: 'Fleet Uzzeet adalah web app dari perusahaan PT Telto Telematis Indonesia untuk melacak dan memantau kendaraan, saya terlibat dalam pembuatan beberapa fitur, dibuat dengan vue.js sebagai frontend dan terintegrasi Rest API.',
-    img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1700882969/fleet-uzzeet_rn3qwp.png',
+    desc: 'Fleet Uzzeet adalah web app dari perusahaan PT Telto Telematis Indonesia untuk melacak dan memantau kendaraan, saya terlibat dalam pembuatan beberapa fitur.',
+    img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1750733071/project-portfolio/hndqffgdl4hkgrmjlurh.png',
     isProject: false,
-    link: 'https://fleet.uzzeet.id/',
+    link: '#project-kantor',
   },
   {
     title: 'Runner',
-    desc: 'Runner adalah sebuah web app yang berbasis GPS Tracking yang di buat oleh perusahaan PT Telto Telematis Indonesia yang dimana saya juga ikut terlibat dalam membuat bebrapa fitur, dibuat dengan vue.js sebagai frontend dan terintegrasi Rest API.',
-    img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1700882990/runner_iusvcc.png',
+    desc: 'Runner adalah sebuah web app yang berbasis GPS Tracking yang di buat oleh perusahaan PT Telto Telematis Indonesia yang dimana saya juga ikut terlibat dalam pembuatan beberapa fitur.',
+    img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1750733060/project-portfolio/p3049px2pkxb2atb0imb.png',
     isProject: false,
-    link: 'https://runner.ktbfuso.id/',
+    link: '#project-kantor',
+  },
+  {
+    title: 'Trip Management',
+    desc: 'Trip Management adalah sebuah web app untuk monitoring kendaraan dan di buat oleh perusahaan PT Telto Telematis Indonesia yang dimana saya juga ikut terlibat dalam pembuatan beberapa fitur.',
+    img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1750733066/project-portfolio/nj1a65bdm4etrhfvaxya.png',
+    isProject: false,
+    link: '#project-kantor',
   },
   {
     title: 'Sistem Informasi Harga dan Produksi Komoditi',

@@ -22,7 +22,15 @@ function Resume() {
           <Col md={6} className='resume-left'>
             <h3 className='resume-title'>Experience</h3>
             {DataResume.map((item, index) => (
-              <Resumecontent key={index} type={item.type} title={item.title} date={item.date} content={item.content} />
+              <Resumecontent
+                key={index}
+                dataItem={item}
+                type={item.type}
+                title={item.title}
+                date={item.date}
+                content={item.content}
+                location={item.location}
+              />
             ))}
           </Col>
           <Col md={6} className='resume-right'>

@@ -1,7 +1,8 @@
 export const DataResume = [
   {
     title: 'Frontend Developer - PT Telto Telematis Indonesia',
-    type: 'Fulltime',
+    type: 'Fulltime - Hybrid',
+    location: 'Yogyakarta, Indonesia',
     date: 'Des 2022 - Now',
     content: [
       'Developing, collaborating, code reviewing frontend features in different teams.',
@@ -13,6 +14,7 @@ export const DataResume = [
   {
     title: 'Frontend Engineer - PT GIT Solution',
     type: 'Internship MBKM',
+    location: 'Yogyakarta, Indonesia',
     date: 'Maret 2022 - Des 2022',
     content: [
       'Collaborated with a Senior and Lead Enginner to build Sistem informasi harga dan produksi komoditi Jawa Tengah. (VueJs, Tailwindcss, Vuex, Rest API)',
@@ -25,6 +27,7 @@ export const DataResume = [
   {
     title: 'Frontend Developer - Freedom FinTech',
     type: 'Freelance',
+    location: 'Singapore',
     date: 'Februari 2022 - April 2022',
     content: [
       'Build web app dashboard admin and collaborate with different teams.(ReactJs, Redux toolkit, TypeScript, Tailwindcss,Github)',
@@ -35,6 +38,7 @@ export const DataResume = [
   {
     title: 'Frontend Developer - PT Manggala Teknologi Nusantara',
     type: 'Internship',
+    location: 'Kediri, Indonesia',
     date: 'Juli 2021 - Desember 2021',
     content: [
       'Build app Money Changer. (Ionic, VueJs, Vuex, TypeScript)',
