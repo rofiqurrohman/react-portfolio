@@ -1,6 +1,6 @@
 import React from 'react';
 import { Col, Row } from 'react-bootstrap';
-import { FaBootstrap } from 'react-icons/fa';
+import { FaBootstrap, FaEthereum } from 'react-icons/fa';
 import { DiJavascript1, DiReact, DiNodejs, DiSass } from 'react-icons/di';
 import {
   SiFirebase,
@@ -58,6 +58,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <SiTypescript />
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <FaEthereum />
       </Col>
     </Row>
   );

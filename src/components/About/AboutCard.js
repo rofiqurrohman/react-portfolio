@@ -12,7 +12,9 @@ function AboutCard() {
             from <span className='purple'> Indonesia.</span>
             <br />I am a Software Developer, my expertise is more to the frontend developer and a the backend. My
             experience is making web application and mobile with the Javascript programming language. I have created
-            several application in several instance
+            several application in several instance.
+            <br></br> I am now learning about blockchain technology and web3 development. I am also a person who is very
+            interested in learning new things and always looking for challenges in the world of programming and IT.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

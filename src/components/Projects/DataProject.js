@@ -1,5 +1,19 @@
 export const Data = [
   {
+    title: 'Chainfund',
+    desc: 'Chainfund adalah platform investasi yang mendukung UMKM indonesia dan mendapatkan keuntungan yang transparan berbasis technology blockchain.',
+    img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1783187204/chainfund_wobk5u.png',
+    isProject: true,
+    link: 'https://chainfund-beta.vercel.app/',
+  },
+  {
+    title: 'Paydrip',
+    desc: 'Paydrip adalah Penggajian yang menghasilkan keuntungan per detik bagi karyawan melalui stablecoin yang di dukung oleh obligasi dengan technology blockchain.',
+    img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1783187350/paydrip_v3tfoo.png',
+    isProject: true,
+    link: 'https://paydrip.vercel.app/',
+  },
+  {
     title: 'Fleet Uzzeet',
     desc: 'Fleet Uzzeet adalah web app dari perusahaan untuk melacak dan memantau kendaraan, saya terlibat dalam pembuatan beberapa fitur.',
     img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1750733071/project-portfolio/hndqffgdl4hkgrmjlurh.png',
