@@ -10,9 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: 'justify' }}>
             Hi Everyone, I am <span className='purple'>Rofiqur Rohman </span>
             from <span className='purple'> Indonesia.</span>
-            <br />I am a Web Developer, my expertise is more to the frontend developer and a little bit to the backend.
-            My experience is making web application with the Javascript programming language, couple with my server
-            linux. I have created several application in several instance
+            <br />I am a Software Developer, my expertise is more to the frontend developer and a the backend. My
+            experience is making web application and mobile with the Javascript programming language. I have created
+            several application in several instance
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

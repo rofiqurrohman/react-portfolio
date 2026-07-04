@@ -9,7 +9,6 @@ function ResumeContent(props) {
         <em>
           {props.date}. {props.type && `(${props.type})`}
         </em>
-        {/* <i>📍</i> */}
       </p>
       <p>{props.location}</p>
       <ul>

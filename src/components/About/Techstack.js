@@ -2,18 +2,21 @@ import React from 'react';
 import { Col, Row } from 'react-bootstrap';
 import { FaBootstrap } from 'react-icons/fa';
 import { DiJavascript1, DiReact, DiNodejs, DiSass } from 'react-icons/di';
-import { SiFirebase, SiTailwindcss, SiTypescript, SiQuasar, SiNextdotjs } from 'react-icons/si';
+import {
+  SiFirebase,
+  SiTailwindcss,
+  SiTypescript,
+  SiQuasar,
+  SiNextdotjs,
+  SiNuxtdotjs,
+  SiNestjs,
+  SiExpress,
+} from 'react-icons/si';
 import { FaVuejs } from 'react-icons/fa';
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: 'center', paddingBottom: '50px' }}>
-      <Col xs={4} md={2} className='tech-icons'>
-        <DiJavascript1 />
-      </Col>
-      <Col xs={4} md={2} className='tech-icons'>
-        <DiNodejs />
-      </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <DiReact />
       </Col>
@@ -22,6 +25,21 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <SiNextdotjs />
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <SiNuxtdotjs />
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <SiNestjs />
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <SiExpress />
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <DiJavascript1 />
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <DiNodejs />
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <DiSass />

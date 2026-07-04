@@ -1,21 +1,21 @@
 export const Data = [
   {
     title: 'Fleet Uzzeet',
-    desc: 'Fleet Uzzeet adalah web app dari perusahaan PT Telto Telematis Indonesia untuk melacak dan memantau kendaraan, saya terlibat dalam pembuatan beberapa fitur.',
+    desc: 'Fleet Uzzeet adalah web app dari perusahaan untuk melacak dan memantau kendaraan, saya terlibat dalam pembuatan beberapa fitur.',
     img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1750733071/project-portfolio/hndqffgdl4hkgrmjlurh.png',
     isProject: false,
     link: '#project-kantor',
   },
   {
     title: 'Runner',
-    desc: 'Runner adalah sebuah web app yang berbasis GPS Tracking yang di buat oleh perusahaan PT Telto Telematis Indonesia yang dimana saya juga ikut terlibat dalam pembuatan beberapa fitur.',
+    desc: 'Runner adalah sebuah web app yang berbasis GPS Tracking yang di buat oleh perusahaan yang dimana saya juga ikut terlibat dalam pembuatan beberapa fitur.',
     img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1750733060/project-portfolio/p3049px2pkxb2atb0imb.png',
     isProject: false,
     link: '#project-kantor',
   },
   {
     title: 'Trip Management',
-    desc: 'Trip Management adalah sebuah web app untuk monitoring kendaraan dan di buat oleh perusahaan PT Telto Telematis Indonesia yang dimana saya juga ikut terlibat dalam pembuatan beberapa fitur.',
+    desc: 'Trip Management adalah sebuah web app untuk monitoring kendaraan dan di buat oleh perusahaan yang dimana saya juga ikut terlibat dalam pembuatan beberapa fitur.',
     img: 'https://res.cloudinary.com/rofiqurrohman/image/upload/v1750733066/project-portfolio/nj1a65bdm4etrhfvaxya.png',
     isProject: false,
     link: '#project-kantor',
